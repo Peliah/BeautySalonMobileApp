@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeautySalon</string>
+    <string name="full_name">Full Name</string>
+    <string name="slogan">Beautify Your Life</string>
+    <string name="book_appointment_label">Book Appointment</string>
+    <string name="book">Book</string>
+    <string name="service_image">service Image</string>
+</resources>
